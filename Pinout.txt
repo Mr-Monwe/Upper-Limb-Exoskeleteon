@@ -1,0 +1,17 @@
+Motor Pinout:
+
+Black - Motor 12V
+Red - Motor GND
+Green - Sensor GND
+Brown - Channel B
+Yellow - Channel A
+Orange - Sensor 5-12V
+
+Encoder Pinout:
+
+Brown - 5-12V  
+Blue - GND
+Black - Channel A
+White - Channel B
+Orange - Channel Z
+Shield - GND
